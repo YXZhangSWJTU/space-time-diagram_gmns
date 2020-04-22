@@ -2,10 +2,12 @@
 Open-source space-time diagram visualization tool for General Modeling Network Specification (GMNS) 
 
 ###Collabrators: 
+
 Mr. Yongxiang (John) Zhang, Ph.D. Candidate, at Southwest Jiaotong University
+
 Dr. Xuesong (Simon) Zhou at Arizona State University
 
-####Contact: Yongxiang (John) Zhang
+####Contact: Yongxiang (John) Zhang.
 Email: bk20100249@my.swjtu.edu.cn
 
 
