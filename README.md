@@ -11,6 +11,16 @@ Dr. Xuesong (Simon) Zhou at Arizona State University
 Email: bk20100249@my.swjtu.edu.cn
 
 
+#Goals of space-time-diagram_gmns development
+1. Read and parse the related data from the data files of NeXTA-GMNS (https://github.com/xzhou99/NeXTA-GMNS)
+2. Provide an easy-to-use tool for visulaizing the space-time trajectories of the agents.
+
+#How to use
+Latest Software Release 04-22-2020
+
+Step 1: Download software package from "release" folder
+
+
 Space-time diagram of the agents on path 1:
 ![output](docs/images/Figure_5.png)
 Space-time diagram of the agents on path 2:
