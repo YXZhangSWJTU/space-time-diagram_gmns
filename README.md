@@ -18,7 +18,9 @@ Email: bk20100249@my.swjtu.edu.cn
 #How to use
 Latest Software Release 04-22-2020
 
-Step 1: Download software package from "release" folder
+Step 1: Install the Python 3.7 or a higher version of Python environment for running the code wirtten in python.
+
+Step 2: 
 
 
 Space-time diagram of the agents on path 1:
