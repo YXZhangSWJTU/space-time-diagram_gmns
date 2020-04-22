@@ -21,7 +21,7 @@ Latest Software Release 04-22-2020
 
 Step 1: Install the Python 3.7 or a higher version of Python environment for running the code written in Python.
 
-Step 2: Read the user guide in the "User guide for space-time-diagram_gmns.pdf" file, and prepare the input data files node.csv, road_link.csv and agent.csv according to the specified data format in the "User guide for space-time-diagram_gmns.pdf". Sample files of the data files are also available at the "examples" folder.
+Step 2: Read the user guide in the "User guide for space-time-diagram_gmns.pdf" file, and prepare the input data files "node.csv", "road_link.csv" and "agent.csv" according to the specified data format in the "User guide for space-time-diagram_gmns.pdf". Sample files of the data files are also available at the "examples" folder.
 
 Step 3: Run the python code on your computer and save the generated figure.
 
