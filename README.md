@@ -16,6 +16,7 @@ Email: bk20100249@my.swjtu.edu.cn
 2. Provide a free and easy-to-use tool for visulaizing the space-time trajectories of the agents.
 
 #How to use
+
 Latest Software Release 04-22-2020
 
 Step 1: Install the Python 3.7 or a higher version of Python environment for running the code wirtten in python.
